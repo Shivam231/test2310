@@ -11,7 +11,7 @@ import javax.swing.*;
 
 public class Calculator {
 
-    private JFrame window; // This is Main Window
+    private JFrame window; // This is Main Window for the Calculator Project
     private JTextField inText, affichageCalc; // Input Text
     private JButton btnC, btnBack, btnMod, btnDiv, btn7, btn8, btn9,
             btnMul, btn4, btn5, btn6, btnSub, btn1, btn2, btn3, btnAdd, btnPoint, btn0, btnEqual, choixColor;
